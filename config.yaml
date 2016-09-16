@@ -1,4 +1,4 @@
-servers:
-  test:50
-  preprod:70
-  prod:90
+Test_Servers:
+    test: 50
+    Preprod: 70
+    prodEnv: 90
