@@ -1,0 +1,4 @@
+servers:
+  test:50
+  preprod:70
+  prod:90
